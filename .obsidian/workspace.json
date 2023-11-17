@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -160,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04bd853e61464d54",
+  "active": "402f0a3ceee1a089",
   "lastOpenFiles": [
+    "Untitled",
+    "2023-11-17.md",
+    "Tasks.md",
     "README.md",
-    "Untitled.md",
     "Untitled/test.md",
-    "Untitled 1",
-    "Untitled"
+    "Untitled 1"
   ]
 }
